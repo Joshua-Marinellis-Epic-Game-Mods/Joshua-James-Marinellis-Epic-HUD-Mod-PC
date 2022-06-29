@@ -1,5 +1,5 @@
 title: Joshua James Marinelli's Epic HUD Mod PC
-description: Incredibly epic and cool HUD mod that replaces all playable character portraits with the one and only god gamer jmari
+description: Incredibly epic and cool HUD mod that replaces all HUD character profile images with god gamer jmari
 logo: icon.png
 assets:
 #Base form Sora HUD Replacements + Roxas + Mickey 
@@ -240,18 +240,182 @@ assets:
   method: copy
   source:
   - name: obj/P_EX100_TR_LIGHTCYCLE.a.fr
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-0.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-1.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-2.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-3.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-4.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-5.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-6.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-7.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-8.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-9.png
+
 - name: obj/P_EX100_TR_LIGHTCYCLE.a.gr
   method: copy
   source:
   - name: obj/P_EX100_TR_LIGHTCYCLE.a.gr
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-0.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-1.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-2.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-3.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-4.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-5.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-6.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-7.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-8.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-9.png
+
 - name: obj/P_EX100_TR_LIGHTCYCLE.a.it
   method: copy
   source:
   - name: obj/P_EX100_TR_LIGHTCYCLE.a.it
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-0.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-1.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-2.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-3.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-4.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-5.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-6.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-7.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-8.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-9.png
+
 - name: obj/P_EX100_TR_LIGHTCYCLE.a.sp
   method: copy
   source:
   - name: obj/P_EX100_TR_LIGHTCYCLE.a.sp
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-0.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-1.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-2.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-3.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-4.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-5.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-6.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-7.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-8.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-9.png
+
 - name: obj/P_EX100_TR_LIGHTCYCLE.a.us
   method: copy
   source:
@@ -399,18 +563,182 @@ assets:
   method: copy
   source:
   - name: obj/P_EX100_SIDECAR.a.fr
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-0.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-1.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-2.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-3.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-4.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-5.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-6.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-7.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-8.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-9.png
+
 - name: obj/P_EX100_SIDECAR.a.gr
   method: copy
   source:
   - name: obj/P_EX100_SIDECAR.a.gr
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-0.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-1.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-2.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-3.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-4.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-5.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-6.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-7.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-8.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-9.png
+
 - name: obj/P_EX100_SIDECAR.a.it
   method: copy
   source:
   - name: obj/P_EX100_SIDECAR.a.it
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-0.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-1.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-2.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-3.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-4.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-5.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-6.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-7.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-8.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-9.png
+
 - name: obj/P_EX100_SIDECAR.a.sp
   method: copy
   source:
   - name: obj/P_EX100_SIDECAR.a.sp
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-0.png
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-1.png
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-2.png
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-3.png
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-4.png
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-5.png
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-6.png
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-7.png
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-8.png
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-9.png
+  
 - name: obj/P_EX100_SIDECAR.a.us
   method: copy
   source:
@@ -485,18 +813,198 @@ assets:
   method: copy
   source:
   - name: obj/P_EX200.a.fr
+- name: remastered/obj/P_EX200.a.fr/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/voice/battle/us/micky
+- name: remastered/obj/P_EX200.a.fr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/-0.png
+- name: remastered/obj/P_EX200.a.fr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/-1.png
+- name: remastered/obj/P_EX200.a.fr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/-2.png
+- name: remastered/obj/P_EX200.a.fr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/-3.png
+- name: remastered/obj/P_EX200.a.fr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/-4.png
+- name: remastered/obj/P_EX200.a.fr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/-5.png
+- name: remastered/obj/P_EX200.a.fr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/-6.png
+- name: remastered/obj/P_EX200.a.fr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/-7.png
+- name: remastered/obj/P_EX200.a.fr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/-8.png
+- name: remastered/obj/P_EX200.a.fr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/-9.png
+
 - name: obj/P_EX200.a.gr
   method: copy
   source:
   - name: obj/P_EX200.a.gr
+- name: remastered/obj/P_EX200.a.gr/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/voice/battle/us/micky
+- name: remastered/obj/P_EX200.a.gr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/-0.png
+- name: remastered/obj/P_EX200.a.gr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/-1.png
+- name: remastered/obj/P_EX200.a.gr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/-2.png
+- name: remastered/obj/P_EX200.a.gr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/-3.png
+- name: remastered/obj/P_EX200.a.gr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/-4.png
+- name: remastered/obj/P_EX200.a.gr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/-5.png
+- name: remastered/obj/P_EX200.a.gr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/-6.png
+- name: remastered/obj/P_EX200.a.gr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/-7.png
+- name: remastered/obj/P_EX200.a.gr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/-8.png
+- name: remastered/obj/P_EX200.a.gr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.gr/-9.png
+
 - name: obj/P_EX200.a.it
   method: copy
   source:
   - name: obj/P_EX200.a.it
+- name: remastered/obj/P_EX200.a.it/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/voice/battle/us/micky
+- name: remastered/obj/P_EX200.a.it/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/-0.png
+- name: remastered/obj/P_EX200.a.it/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/-1.png
+- name: remastered/obj/P_EX200.a.it/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/-2.png
+- name: remastered/obj/P_EX200.a.it/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/-3.png
+- name: remastered/obj/P_EX200.a.it/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/-4.png
+- name: remastered/obj/P_EX200.a.it/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/-5.png
+- name: remastered/obj/P_EX200.a.it/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/-6.png
+- name: remastered/obj/P_EX200.a.it/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/-7.png
+- name: remastered/obj/P_EX200.a.it/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/-8.png
+- name: remastered/obj/P_EX200.a.it/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.it/-9.png
+
 - name: obj/P_EX200.a.sp
   method: copy
   source:
   - name: obj/P_EX200.a.sp
+- name: remastered/obj/P_EX200.a.sp/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/voice/battle/us/micky
+- name: remastered/obj/P_EX200.a.sp/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/-0.png
+- name: remastered/obj/P_EX200.a.sp/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/-1.png
+- name: remastered/obj/P_EX200.a.sp/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/-2.png
+- name: remastered/obj/P_EX200.a.sp/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/-3.png
+- name: remastered/obj/P_EX200.a.sp/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/-4.png
+- name: remastered/obj/P_EX200.a.sp/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/-5.png
+- name: remastered/obj/P_EX200.a.sp/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/-6.png
+- name: remastered/obj/P_EX200.a.sp/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/-7.png
+- name: remastered/obj/P_EX200.a.sp/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/-8.png
+- name: remastered/obj/P_EX200.a.sp/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.sp/-9.png
+
 - name: obj/P_EX200.a.us
   method: copy
   source:
@@ -509,6 +1017,10 @@ assets:
   method: copy
   source:
   - name: obj/P_EX200.mset
+- name: remastered/obj/P_EX200.a.us/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.us/voice/battle/us/micky
 - name: remastered/obj/P_EX200.a.us/-0.png
   method: copy
   source:
@@ -554,18 +1066,198 @@ assets:
   method: copy
   source:
   - name: obj/P_EX220.a.fr
+- name: remastered/obj/P_EX220.a.fr/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/voice/battle/us/micky
+- name: remastered/obj/P_EX220.a.fr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/-0.png
+- name: remastered/obj/P_EX220.a.fr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/-1.png
+- name: remastered/obj/P_EX220.a.fr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/-2.png
+- name: remastered/obj/P_EX220.a.fr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/-3.png
+- name: remastered/obj/P_EX220.a.fr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/-4.png
+- name: remastered/obj/P_EX220.a.fr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/-5.png
+- name: remastered/obj/P_EX220.a.fr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/-6.png
+- name: remastered/obj/P_EX220.a.fr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/-7.png
+- name: remastered/obj/P_EX220.a.fr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/-8.png
+- name: remastered/obj/P_EX220.a.fr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.fr/-9.png
+
 - name: obj/P_EX220.a.gr
   method: copy
   source:
   - name: obj/P_EX220.a.gr
+- name: remastered/obj/P_EX220.a.gr/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/voice/battle/us/micky
+- name: remastered/obj/P_EX220.a.gr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/-0.png
+- name: remastered/obj/P_EX220.a.gr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/-1.png
+- name: remastered/obj/P_EX220.a.gr/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/-2.png
+- name: remastered/obj/P_EX220.a.gr/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/-3.png
+- name: remastered/obj/P_EX220.a.gr/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/-4.png
+- name: remastered/obj/P_EX220.a.gr/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/-5.png
+- name: remastered/obj/P_EX220.a.gr/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/-6.png
+- name: remastered/obj/P_EX220.a.gr/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/-7.png
+- name: remastered/obj/P_EX220.a.gr/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/-8.png
+- name: remastered/obj/P_EX220.a.gr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.gr/-9.png
+
 - name: obj/P_EX220.a.it
   method: copy
   source:
   - name: obj/P_EX220.a.it
+- name: remastered/obj/P_EX220.a.it/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/voice/battle/us/micky
+- name: remastered/obj/P_EX220.a.it/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/-0.png
+- name: remastered/obj/P_EX220.a.it/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/-1.png
+- name: remastered/obj/P_EX220.a.it/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/-2.png
+- name: remastered/obj/P_EX220.a.it/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/-3.png
+- name: remastered/obj/P_EX220.a.it/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/-4.png
+- name: remastered/obj/P_EX220.a.it/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/-5.png
+- name: remastered/obj/P_EX220.a.it/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/-6.png
+- name: remastered/obj/P_EX220.a.it/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/-7.png
+- name: remastered/obj/P_EX220.a.it/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/-8.png
+- name: remastered/obj/P_EX220.a.it/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.it/-9.png
+
 - name: obj/P_EX220.a.sp
   method: copy
   source:
   - name: obj/P_EX220.a.sp
+- name: remastered/obj/P_EX220.a.sp/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/voice/battle/us/micky
+- name: remastered/obj/P_EX220.a.sp/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/-0.png
+- name: remastered/obj/P_EX220.a.sp/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/-1.png
+- name: remastered/obj/P_EX220.a.sp/-2.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/-2.png
+- name: remastered/obj/P_EX220.a.sp/-3.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/-3.png
+- name: remastered/obj/P_EX220.a.sp/-4.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/-4.png
+- name: remastered/obj/P_EX220.a.sp/-5.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/-5.png
+- name: remastered/obj/P_EX220.a.sp/-6.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/-6.png
+- name: remastered/obj/P_EX220.a.sp/-7.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/-7.png
+- name: remastered/obj/P_EX220.a.sp/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/-8.png
+- name: remastered/obj/P_EX220.a.sp/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.sp/-9.png
+
 - name: obj/P_EX220.a.us
   method: copy
   source:
@@ -578,6 +1270,10 @@ assets:
   method: copy
   source:
   - name: obj/P_EX220.mset
+- name: remastered/obj/P_EX220.a.us/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.us/voice/battle/us/micky
 - name: remastered/obj/P_EX220.a.us/-0.png
   method: copy
   source:
@@ -677,18 +1373,54 @@ assets:
   method: copy
   source:
   - name: obj/PO07_PLAYER.a.fr
+- name: remastered/obj/PO07_PLAYER.a.fr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.fr/-0.png
+- name: remastered/obj/PO07_PLAYER.a.fr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.fr/-1.png
+
 - name: obj/PO07_PLAYER.a.gr
   method: copy
   source:
   - name: obj/PO07_PLAYER.a.gr
+- name: remastered/obj/PO07_PLAYER.a.gr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.gr/-0.png
+- name: remastered/obj/PO07_PLAYER.a.gr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.gr/-1.png
+
 - name: obj/PO07_PLAYER.a.it
   method: copy
   source:
   - name: obj/PO07_PLAYER.a.it
+- name: remastered/obj/PO07_PLAYER.a.it/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.it/-0.png
+- name: remastered/obj/PO07_PLAYER.a.it/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.it/-1.png
+
 - name: obj/PO07_PLAYER.a.sp
   method: copy
   source:
   - name: obj/PO07_PLAYER.a.sp
+- name: remastered/obj/PO07_PLAYER.a.sp/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.sp/-0.png
+- name: remastered/obj/PO07_PLAYER.a.sp/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.sp/-1.png
+
 - name: obj/PO07_PLAYER.a.us
   method: copy
   source:
@@ -714,18 +1446,54 @@ assets:
   method: copy
   source:
   - name: obj/PO08_PLAYER.a.fr
+- name: remastered/obj/PO08_PLAYER.a.fr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/PO08_PLAYER.a.fr/-0.png
+- name: remastered/obj/PO08_PLAYER.a.fr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO08_PLAYER.a.fr/-1.png
+
 - name: obj/PO08_PLAYER.a.gr
   method: copy
   source:
   - name: obj/PO08_PLAYER.a.gr
+- name: remastered/obj/PO08_PLAYER.a.gr/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/PO08_PLAYER.a.gr/-0.png
+- name: remastered/obj/PO08_PLAYER.a.gr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO08_PLAYER.a.gr/-1.png
+
 - name: obj/PO08_PLAYER.a.it
   method: copy
   source:
   - name: obj/PO08_PLAYER.a.it
+- name: remastered/obj/PO08_PLAYER.a.it/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/PO08_PLAYER.a.it/-0.png
+- name: remastered/obj/PO08_PLAYER.a.it/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO08_PLAYER.a.it/-1.png
+  
 - name: obj/PO08_PLAYER.a.sp
   method: copy
   source:
   - name: obj/PO08_PLAYER.a.sp
+- name: remastered/obj/PO08_PLAYER.a.sp/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/PO08_PLAYER.a.sp/-0.png
+- name: remastered/obj/PO08_PLAYER.a.sp/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO08_PLAYER.a.sp/-1.png
+
 - name: obj/PO08_PLAYER.a.us
   method: copy
   source:
